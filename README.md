@@ -1,4 +1,41 @@
-# retro-board
+# retro-board-with-dependencies
+
+git clone this repo - requires npm / node installed version between 4 and 9
+
+```tar -zxvf assets.tgz```
+
+```tar -zxvf node_modules.tgz```
+
+```tar -zxvf build.tgz```
+
+```npm start```
+
+Or if you can run docker
+
+build image
+
+```image-build.sh```
+
+run it for the first time
+
+```image-run.sh```
+
+run second time
+
+```image-start.sh```
+
+stop image
+
+```image-stop.sh```
+
+other docker scripts
+
+```image-node-run-bash.sh```
+
+```image-run-bash.sh```
+
+
+## From original retro-board repoo
 
 This is a Retrospective Idea board, powering [retrospected.com](http://www.retrospected.com).
 
