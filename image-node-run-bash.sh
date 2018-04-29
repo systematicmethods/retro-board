@@ -1,3 +1,3 @@
 
-docker run -it --rm -v $PDW:. node:9.11 bash
+docker run -it --rm -v $PWD:. node:9.11 bash
 
