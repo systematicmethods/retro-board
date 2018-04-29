@@ -1,6 +1,6 @@
 # retro-board-with-dependencies
 
-git clone this repo - requires npm / node installed version between 4 and 9
+git clone this repo - to run natively requires npm / node installed version between 4 and 9 on a linux / mac osx. 
 
 ```tar -zxvf assets.tgz```
 
